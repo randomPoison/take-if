@@ -1,9 +1,13 @@
 [package]
 name = "take-if"
+description = "A tiny utility for conditionally taking the contents of an option."
 version = "0.1.0"
 authors = ["David LeGare <dlegare.1001@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+repository = "https://github.com/randomPoison/take-if"
+readme = "README.md"
+keywords = ["option", "conditional", "take", "if"]
+categories = ["rust-patterns"]
 
 [dependencies]

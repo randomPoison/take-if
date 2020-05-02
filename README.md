@@ -14,7 +14,7 @@ if let Some(greeting) = maybe_greeting.take_if(|greeting| greeting.starts_with("
 }
 ```
 
-## Getting Started
+## Usage
 
 Add take-if to your `Cargo.toml`:
 
