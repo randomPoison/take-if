@@ -1,5 +1,8 @@
 # take-if
 
+[![Crates.io](https://img.shields.io/crates/v/take-if.svg)](https://crates.io/crates/take-if)
+[![API](https://docs.rs/take-if/badge.svg)](https://docs.rs/take-if)
+
 A tiny utility for conditionally taking the contents from an [`Option`]. See also [`Option::take`].
 
 ```rust
